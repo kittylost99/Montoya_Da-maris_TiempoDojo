@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.navbar {
+    background-color: skyblue;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.item {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+.links {
+    display: flex;
+    margin-right: 90px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.titulo {   
+    margin-left: 71px;
+}
